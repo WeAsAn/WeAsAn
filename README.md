@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">Front-end developer from Russia</h3>
+<h1 align="center">Hi 👋, I'm Nikita and I'm Front-end developer from Russia</h1>
 
 - 😎 **PERN stack**
 - 🌱 I’m currently learning **Next.js, React Native**
