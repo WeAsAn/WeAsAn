@@ -33,6 +33,6 @@
 <br/>
   
 - **Front-end**: JavaScript, TypeScript, React, Hooks API, Redux (Thunk, Toolkit), HTML5, CSS3, Styled Components, Geist UI, Chart.js;
-- **Back-end**: Node.js, Express, Sessions/Tokens, CORS, React SSR;
+- **Back-end**: Node.js, Express, Sessions, CORS;
 - **DB**: PostgreSQL, Sequelize ORM;
 - **Testing**: Jest.
